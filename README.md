@@ -1,3 +1,6 @@
+# health-app
+This is the frontend (in React.js) of a health app (desktop version), which I have created for my master thesis.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
